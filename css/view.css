@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2020, 11:45:52 PM
+    Author     : Uchitachi
+*/
+
+.description{
+    background-color: #FFFFFF;
+    margin-bottom: 30px;
+    padding: 30px;
+    border: 1px solid #F2F2F2;
+    margin-top: 100px;
+    margin-bottom: 100px;
+        
+    
+}
+
+.hearder{
+    padding-top: 100px;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 19, 2020, 10:01:36 PM
+    Author     : Uchitachi
+*/
+
+.description{
+    background-color: #FFFFFF;
+    width: 1065px;
+    height: 688px;
+    margin-bottom: 30px;
+    padding: 30px;
+    border: 1px solid #F2F2F2
+    
+}
+.mo-ta-truyen{
+    font-size: 15px;
+    line-height: 30px;
+    margin: 50px       
+}
+.info{
+    font-size: 15px;
+}
+
+.img-truyen{
+    width: 303px;
+    float: left;
+    margin: 50px;
+}
+.information{
+    float: left
+}
+h1.thong-tin-truyen{
+    font-size: 30px;
+    font-weight: bold;
+}

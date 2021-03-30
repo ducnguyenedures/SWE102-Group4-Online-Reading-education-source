@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 9, 2020, 10:47:22 PM
+    Author     : Uchitachi
+*/
+.list-noval{
+    width: 100%;
+}
+/*noval cart*/
+.card-noval{  
+    margin-left: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+    
+}
+
+.card-img{ 
+	border: 1px solid #CCC; 
+	height: auto; /** Chiều cao tự động **/ 
+	margin: 5px auto; /** Cách trên dưới 10px và nằm giữa **/ 
+	overflow: hidden; /** DÒNG BẮT BUỘC CÓ **/ 
+	position: relative; width:207px; height: 308px;/** Chiều rộng vùng chứa **/ } 
+	
+.card-img{ 
+	width: 100%; /** Hình ảnh rộng 100% so với vùng chứa **/ 
+	transition: all 1s; /** Tạo độ mượt **/ } 
+	
+.card-img:hover { 
+	-webkit-transform: scale(1.2); transform: scale(1.2); }
+h4.chapter-header{
+    margin-left: 20px;
+}
